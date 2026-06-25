@@ -1,3 +1,12 @@
+<!-- UMEDH-SHOWCASE-BANNER -->
+> ### 🟠 Used by उमेध (Umedh)
+> [Umedh](https://umedh.in) — a Marathi business-intelligence daily — sets its
+> Devanagari UI/body and its **auto-generated social share cards** in **Mukta**.
+> See **[`umedh-showcase/`](./umedh-showcase/)** for the Umedh OG Image
+> Generator (the "work") and sample cards rendered with this font.
+> _Mukta © EkType · SIL Open Font License 1.1._
+<!-- /UMEDH-SHOWCASE-BANNER -->
+
 # Mukta
 
 ![Mukta](https://github.com/EkType/Mukta/blob/master/Promotion/banner.png "Mukta")
